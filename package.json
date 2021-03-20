@@ -1,0 +1,16 @@
+{
+  "name": "sharedesp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "pm2": "pm2 run index.js"
+  },
+  "author": "SPRAVEDLIVO",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^7.1.2",
+    "uuid": "^8.3.2",
+    "ws": "^7.3.1"
+  }
+}
